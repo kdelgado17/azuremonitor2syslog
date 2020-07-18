@@ -5,7 +5,7 @@
       "name": "myEventHubMessage",
       "connection": "logging01_RootManageSharedAccessKey_EVENTHUB",
       "eventHubName": "logs",
-      "consumerGroup": "$Default",
+      "consumerGroup": "bdserviciosfinancieros",
       "direction": "in"
     }
   ]
